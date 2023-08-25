@@ -4,7 +4,6 @@ import mapboxgl from 'mapbox-gl';
 
 describe('Map', () => {
     it('constructor', () => {
-        /* global window */
         const container = window.document.createElement('div');
 
         const map = new mapboxgl.Map({
