@@ -1,0 +1,16 @@
+{
+  "name": "mapbox-gl-vitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.15.0"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.3",
+    "webdriverio": "^8.15.6"
+  }
+}
